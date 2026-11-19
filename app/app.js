@@ -173,6 +173,14 @@ function render() {
   ui.rows.replaceChildren(fragment);
   ui.rows.setAttribute('aria-busy', 'false');
 
+  if (banner && visible.length > 0) {
+    const notice = document.createElement('p');
+    notice.className = 'loading';
+    notice.setAttribute('role', 'status');
+    notice.textContent = banner;
+    ui.rows.prepend(notice);
+  }
+
   const listed = document.createElement('p');
   listed.className = 'loading';
   listed.textContent = `${visible.length} of ${trophies.length} trophies shown`;
