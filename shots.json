@@ -1,0 +1,6 @@
+[
+  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 720 }, "note": "Hero and the top of the 55-trophy checklist, desktop 1280x720." },
+  { "file": "2-roadmap.jpg", "path": "/", "scroll": "#roadmap-heading", "viewport": { "width": 1280, "height": 720 }, "note": "The three-phase roadmap section in view." },
+  { "file": "3-detail.jpg", "path": "/", "grade": "silver", "scroll": ".toolbar", "viewport": { "width": 1280, "height": 720 }, "note": "Filters visible with the grade filter set to silver (6 cards) and their detail guides." },
+  { "file": "4-spoilers-off.jpg", "path": "/", "grade": "all", "kind": "story", "spoilers": false, "viewport": { "width": 1280, "height": 720 }, "note": "Spoilers turned off, so the 12 story trophies show their real names and guides." }
+]

@@ -1,0 +1,172 @@
+{
+  "trophies": [
+    {
+      "id": 29,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "Chapter 1 is the opening stretch of the campaign, running from Gone Fishing through the first big score that sets up the rest of the story. Just follow the mission markers on the map and it will land on its own once that chapter's final cutscene plays. It cannot be missed, but a manual save right after it pops is worth keeping for anything chapter-gated.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 30,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "Chapter 2 pushes the story into the drug-running side of Leonida and hands out the mission Breakfast Run alongside the main thread. Clear every chapter mission the story offers and the trophy arrives at the chapter break. Nothing here is optional, so it comes automatically as you keep playing.",
+      "source": "GTABase"
+    },
+    {
+      "id": 31,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "Chapter 3 is built around The Cartel Heist and the fallout from it, and it is the point where the map opens up toward Vice City proper. Play the chapter missions in order and the trophy unlocks when the chapter closes. Unmissable, though it is a good moment to take a manual save before the next act begins.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 32,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "Chapter 4 is the longest act, covering Child's Play, Headliners and VCIA Takedown before it wraps. There is no branching that skips content, so simply working through every marked story mission finishes it. The trophy appears at the chapter's closing cutscene, and the next chapter begins immediately after.",
+      "source": "GTA Zone"
+    },
+    {
+      "id": 33,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "The campaign ends with a single climactic mission that closes out the main story, and finishing it awards this gold along with the ending credits. It is unmissable, but keep a manual save from just before you launch that mission, because the world state afterwards changes and a few side jobs and activities are much easier to wrap up from that point. Reload that save if you are chasing cleanup trophies later.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 34,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "Breakfast Run is one of the Chapter 2 story missions, handed to you as you push through the chapter's main thread. It plays out as a linear set of objectives with no choices that can fail the trophy. Finish the mission and the unlock follows immediately, so there is nothing to plan around here.",
+      "source": "GTABase"
+    },
+    {
+      "id": 35,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "The Cartel Heist is the centrepiece of Chapter 3 and has you hitting a cartel operation with a crew. Prep steps are part of the mission chain, so do not wander off expecting to skip them. Clear it as written and the trophy is yours; it is a story mission and cannot be missed.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 36,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "Child's Play sits early in Chapter 4 and is part of the main story chain rather than an optional job. Follow the objectives and see it through; the trophy registers on the mission results screen. There is no branch or fail state that removes it, so it is purely a matter of progressing the campaign.",
+      "source": "GTABase"
+    },
+    {
+      "id": 37,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "Headliners is another Chapter 4 story mission and continues directly from the events of the earlier chapter missions. Because it is part of the critical path you cannot skip it, and the trophy unlocks the moment the mission ends. Play the chapter in order and it arrives with everything else.",
+      "source": "GTA Zone"
+    },
+    {
+      "id": 38,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "VCIA Takedown is the last of the marked Chapter 4 missions before the chapter closes out. It is a straight story job with objective markers guiding you the whole way, so simply finish it. Since it is unmissable there is nothing to prepare for, though it pairs naturally with the Chapter 4 trophy.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 39,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "Operation Savage Glory is the Chapter 5 story mission and the last of the chapter-specific trophies before the finale. It is handed out as part of the main thread, so keep following the story markers rather than side content. Complete it as scripted and the trophy unlocks on the results screen.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 40,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "Kenton's jobs are a side-character chain that unlocks alongside the story rather than inside it, and this fires on the final one in his set. Work through his jobs as they appear and finish the last before you wrap the campaign. His line stays available after the story ends, so there is no window to miss it, but note the trophy stays hidden until that finale lands.",
+      "source": "GTABase"
+    },
+    {
+      "id": 41,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "Billy's five jobs begin at the Thrillbilly Mudclub in Kelly County, and the chain opens up after a Chapter 2 mission. Run all five and the last one awards this trophy. Nothing here expires when the story finishes, so you can save the whole set for cleanup, but starting the chain early means the jobs do not pile up at the end.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 42,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "Andy is another side character with his own short set of jobs, and this unlocks on the last mission he offers. His chain becomes available as you move through the story, so check the map for his marker between chapters. Like the other side-character finales it remains open after the credits, which makes it safe to leave for last.",
+      "source": "GTA Zone"
+    }
+  ]
+}

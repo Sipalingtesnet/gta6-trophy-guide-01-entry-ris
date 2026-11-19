@@ -1,0 +1,172 @@
+{
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "kind": "platinum",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "This is the platinum capstone, so it has no steps of its own. Finish the other 54 trophies and it triggers on its own, usually a few seconds after the last one. There is nothing to miss and no order to follow, but expect the online-only style extras to be the ones that hold you up, so clear them early.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 2,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "The 100% checklist lives under Progress > Stats > 100% Completion and only appears once the main story is finished, yet everything you did beforehand already counts toward it. PowerPyx notes the list is really about 60% of the game's content: roughly 200 of 277 vehicles, 100 of 255 animals, 50 of 66 weapons, 300 of 397 stunts, 70 of 80 Challenges, all 8 bank vaults, all 39 illegal operations and 15 of 18 meditation spots. Work through it category by category rather than chasing the counter, and note that nothing on it can be permanently missed.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 3,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Stunt jumps, flights under bridges, knife flights and base jumps all feed the same counter, so you can mix them freely and only need any 250 of the game's 397. The fastest route is to sweep stunt jumps by district using a map and save the awkward knife flights for last. Because 100% Completion demands 300 stunts, keep going past this trophy instead of stopping at 250.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 4,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "You need a gold medal on every Shooting Range challenge in the game, and they are repeatable so nothing here is missable. Output Lag reports the medals spread over 12 ranges for 42 golds total, though a rival count claims two ranges hold all 42 between them, so confirm the layout against GTABase before you plan a route. Practise the reload timing on each weapon first, since gold targets are tight and usually reward headshots and clean streaks.",
+      "source": "Output Lag"
+    },
+    {
+      "id": 5,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "kind": "crime",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Bank vaults are opened through the optional Chapter 4 mission That's Where The Money Is. Tail an armored van until it stops at a large bank, slip inside while the guard still has the vault door open, and bring your partner along because you cannot haul every bag of cash alone. Each hit instantly gives you 4 stars, so park a fast bike or car right outside the doors before you go in. You only need 5 of the 8 vaults for the trophy, but 100% Completion wants all 8.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 6,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Not every stranger strand counts toward this: Kirk, Kyle, Yago and Pilot Pete all register, while Moses, Tyrone, Yasmani, Andy and Billy either have their own trophies or are excluded entirely. Because the game never tells you which ones register, open the trophy's own progress counter after finishing each strand and check whether it moved. Race Against Yago is time-sensitive, so drop whatever you are doing and complete it as soon as it appears on the map.",
+      "source": "GTABase"
+    },
+    {
+      "id": 7,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "kind": "collectible",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "There are 18 Collectible Card sets hidden around Leonida and you only need to finish any 3 of them. Each set is a handful of cards tied to a theme and a location, so open the collection menu and pick the three sets with the fewest missing cards rather than hunting blind. Note the cards you already picked up while free-roaming, then fill the gaps one set at a time. Nothing expires, so this can be cleaned up after the story.",
+      "source": "GTABase"
+    },
+    {
+      "id": 8,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "kind": "collectible",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "WAiNK It means taking an in-game photo at a discoverable location, and any mix of the four categories counts. The world holds 31 Landmarks, 35 Curiosities, 23 Sculptures and a set of No Flusher toilet tags, which is far more than the 100 you need, so you can ignore whichever type you find tedious. Pull out the phone, frame the prompt icon until it locks, and snap; the counter ticks up immediately and nothing is missable.",
+      "source": "GTA Zone"
+    },
+    {
+      "id": 9,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "This one asks only that you sample all 9 activity types at least once, so performance does not matter and you can lose every attempt. The categories cover things like stunt jumps, races, shooting ranges, triathlons and side jobs, and most unlock naturally as you explore. Open the activities menu as you go and tick off a type you have never touched whenever you see its icon. It can be finished at any point before or after the story.",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": 10,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "There are 40 races in Leonida and this requires first place in 20 different ones, since re-winning the same event does nothing for the counter. Pick a fast, well-handling car and work through the street and circuit races district by district, using the race menu to see which events still show no win. Lower the difficulty if you only care about the trophy; the races stay available after the campaign, so nothing can be lost.",
+      "source": "PC Gamer"
+    },
+    {
+      "id": 11,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "kind": "partner",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "You need a 4 star wanted level, your partner in the car with you, and a clean escape. The smoothest setup is a bank vault hit, which drops you straight to 4 stars with your partner alongside. Break line of sight, switch to a quiet vehicle if you can, and keep driving out of the search circle. The trophy only fires once you have crossed out of the red heat zone entirely, not when the flashing search area simply stops moving.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 12,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "kind": "partner",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Call your partner to your side first, then rob three shops in one continuous run while the police are actively chasing you. Choose three stores close together so you can hop between them before the heat dies, and keep the wanted level alive the whole time. If the stars fade down to just the red heat zone, the chain is broken and you have to start over. It can take around 30 seconds after leaving the third shop for the trophy to appear, so keep driving rather than reloading a save.",
+      "source": "GTABase"
+    },
+    {
+      "id": 13,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "kind": "collectible",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Scanning a vehicle with the WAiNK app counts as discovering it, so you never need to steal anything. Keep the phone ready while you drive and snap every model you pass, including parked cars, boats and aircraft. The base game has 277 models and 100% Completion asks for 200 of them, so treat this as the first half of that grind. Nothing is time-limited and traffic respawns endlessly.",
+      "source": "GTA Zone"
+    },
+    {
+      "id": 14,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "kind": "exploration",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "This tracks map fog, so you need to reveal every region of Leonida rather than visit every collectible. A plane is by far the quickest tool: fly long straight passes across the state, then sweep the coastal edges and the islands that ground travel tends to skip. Check the map after each pass for any grey patches left behind and mop them up before landing. Fog clearing is permanent, so a save made mid-sweep is perfectly safe.",
+      "source": "GTABase"
+    }
+  ]
+}

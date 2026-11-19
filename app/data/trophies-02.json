@@ -1,0 +1,172 @@
+{
+  "trophies": [
+    {
+      "id": 15,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "kind": "crime",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Illegal operations are the gang-held properties that show up on your map once you start scouting crime around Leonida, and this only asks for one hit against each of the nine gangs. Read the operation's tag before you go in, because a repeat of the same gang does nothing for the trophy. Thirty-nine operations exist in total and clearing all of them is what 100% Completion wants, so treat this as the early slice of that grind.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 16,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "kind": "crime",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Marked Bills are the dirty cash you lift from bank jobs and payday loan stores, and they only become clean money when a contact launders them for you. This is a running total, so keep feeding whoever gives the best rate rather than spreading the work around. Yasmani takes the smallest cut of the contacts, which makes her the quickest route to the quarter million.",
+      "source": "GTABase"
+    },
+    {
+      "id": 17,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Top Fun drone races are the timed checkpoint courses flown with a quadcopter, and each of the fourteen locations has its own set. You only need a single first place at each location for the trophy, not a clean sweep. Winning all forty-two races across the map is a separate ask that 100% Completion makes, so note which locations you have already topped.",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": 18,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Every purchase counts here, whether it is clothing, ammo, food, vehicle upgrades or property, and the spend is tracked as one cumulative figure. You will clear it naturally while buying gear for heists, so there is no need to shop deliberately. If you want it early, buy weapons and car mods you were going to need anyway instead of wasting cash on things you never use.",
+      "source": "PC Gamer"
+    },
+    {
+      "id": 19,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "There are eight garages for sale in total, listed in the Vice City Real Estate app, and together they cost roughly $160,000. The app only opens up after you finish the Chapter 2 mission Daily Driver, so this cannot be rushed at the start. The four garages the story hands you are not purchasable and do not count, so make sure every one of your eight is a paid listing.",
+      "source": "GTA Zone"
+    },
+    {
+      "id": 20,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Moses hands you the Scooter Bros app during the Chapter 2 mission of the same name, which is what lets you launder a stolen car into your own name. Drive a boosted vehicle to Moses, pick Respray and then Register, and repeat until ten cars are logged. From Chapter 3 a standard tracker bought at any Pay 'n' Spray does the same job, but each registered car needs a free garage slot, so buy your garages before you start stockpiling.",
+      "source": "Output Lag"
+    },
+    {
+      "id": 21,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Cal starts texting you once you have cleared a Chapter 1 mission, and his message drops a purple icon on the map marking where he is waiting with a rod. Turn up, take the challenge and land more or bigger fish than he does. Nothing here is timed or missable, so you can come back with better gear if the first attempt goes badly.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 22,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Arcade cabinets sit inside the bars and clubs around Leonida, and each one holds a small playable game. Pick any cabinet and finish its game rather than just dropping a few coins, since only a completed run pops the trophy. Choose the shortest shooter or puzzler on the cabinet list if you are doing this purely for the trophy.",
+      "source": "GTABase"
+    },
+    {
+      "id": 23,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": true,
+      "guide": "There are eighteen meditation spots spread over ten locations, and you can sit at each one as Jason and as Lucia. Bring whichever partner is available every time, because a spot you meditate at alone may not register as both characters, and the final spot needs the pair playable together, which only opens after Chapter 2. The one to watch is the very first: Lucia's balcony meditation at home in Chapter 1, which appears after the mission Down to Earth when you check the kitchen in the morning and follow her out. That spot vanishes when Chapter 1 ends and nobody has confirmed whether the trophy requires it, so do it anyway and keep a Chapter 1 save until the pop. 100% Completion only wants fifteen of the eighteen spots, so a missed one costs you nothing toward A Long Road.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 24,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "kind": "crime",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Combat Focus is the slow-motion aiming mode you trigger by clicking L3 and R3 while aiming, and the meter has to be full before it will fire. Bank a charge by playing normally, then pick a crowded fight such as the guards patrolling an illegal operation and go in with an assault rifle. Adrenaline lengthens the slow-motion window, which makes five clean kills far easier if you are struggling.",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": 25,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "kind": "crime",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Jewelry store robberies unlock in Chapter 3 through the mission Yasmani's Jewelry Jobs, which also puts the Snap Gun in your hands. Use the Snap Gun on a store's locked back door instead of kicking it, because a kick trips the alarm and ruins the run. Once inside the back room, read the note holding the safe code, empty the safe and walk out unseen; Richardson Jewelry & Diamonds in Vice City is a forgiving target. If anyone spots you, reload the save and try again.",
+      "source": "Output Lag"
+    },
+    {
+      "id": 26,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "kind": "crime",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Armored trucks run fixed routes and can be hit on the road, and a full bank vault job also satisfies this if you get away clean. The trophy is not awarded when the cash is in your hands, only once the red heat zone around the scene has cleared. Keep driving until the zone drops, then stop worrying about the police response.",
+      "source": "GTA Zone"
+    },
+    {
+      "id": 27,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "kind": "activity",
+      "hidden": false,
+      "story": false,
+      "missable": false,
+      "guide": "Challenges are tracked under Progress > Challenges and cover a wide mix of side content, from stunt and weapon tasks to odd jobs around the map. You only need fifty of the eighty for this trophy, and many tick over on their own as you chase other trophies. 100% Completion asks for seventy, so treat fifty as a checkpoint rather than the finish line.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 28,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "kind": "story",
+      "hidden": true,
+      "story": true,
+      "missable": false,
+      "guide": "Gone Fishing is the opening mission of Chapter 1, so you get it in the first hour of a new game. Follow the objective markers and finish the mission as written and the trophy pops on the results screen. There is no alternative path and nothing to miss, so this one takes care of itself.",
+      "source": "PowerPyx"
+    }
+  ]
+}

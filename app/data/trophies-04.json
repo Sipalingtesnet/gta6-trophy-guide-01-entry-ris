@@ -1,0 +1,160 @@
+{
+  "trophies": [
+    {
+      "id": 43,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "Randy's jobs sit off the main story thread, so you reach the finale only after clearing the earlier favours he hands out. Follow his contact markers whenever they appear and finish the last one to unlock the trophy. It is not tied to any chapter cutoff, so the string can be wrapped up after the campaign ends.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 44,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "Tyrone's side string runs parallel to the story and only finishes once you have done the run of missions he gives out. Work through his markers in order and the last one pops the trophy. Like the other side-character finales it stays available after the credits, so nothing is lost if you leave it late.",
+      "source": "GTABase"
+    },
+    {
+      "id": 45,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "Bret Vogel's hunting line is Jason-only, so switch to him before starting it. His target decks point you at the animals to bring down, and a clean shot to the head or heart keeps the carcass in good enough shape to hand in. The animal for this particular request is not confirmed yet, so treat the deck marker as your only dependable lead and save before you head out.",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": 46,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "Head to Vice City International and take one of the big airliners parked at a boarding bridge — the gates E3 and E4 aircraft are the ones that work, while planes sitting elsewhere on the apron do not count. Climb into the cockpit, reverse away from the terminal, line up on the runway and get airborne. The trophy waits until you are roughly a kilometre out from the airport, so keep flying and keep the police off you; save beforehand because the response is immediate.",
+      "source": "PowerPyx"
+    },
+    {
+      "id": 47,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "Mile Zero Air Station sits on the island in the far south-west corner of the map, and the Rhino tanks should be parked along its southern side. Make a manual save before you go in, then hop in, drive it off the base and fire the main gun a few times until the trophy registers. Expect a heavy response once you are moving, so have an escape route in mind.",
+      "source": "GTABase"
+    },
+    {
+      "id": 48,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "Kolt & Associates runs Kingpin Bowling, an illegal operation in Port Gellhorn that you can hit from Chapter 2 onward. Pack Sticky Bombs and take all three valuables: the luxury watch in the office, the shotgun resting on a table, and the contents of the office safe, which you blow open with a charge. Clear the police once you are loaded up; anything you leave behind means the operation reopens later, so it costs time rather than the trophy.",
+      "source": "PC Gamer"
+    },
+    {
+      "id": 49,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "This one is about Strength, which you raise by training rather than by fighting alone. Buy a gym membership and bring your partner along — they work out beside you and their Strength climbs at the same time. Keep the sessions going until both Jason and Lucia are maxed out and the trophy lands.",
+      "source": "GTA Zone"
+    },
+    {
+      "id": 50,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "You need 500 actions that shift your Criminal Profile, and robberies plus fights are the reliable way to feed it — it fills naturally as you play, so no dedicated grind is needed. Watch the direction you push it in, because steering the profile all the way to Irredeemable is permanent. Spread your choices if you want to keep the ending options open.",
+      "source": "Output Lag"
+    },
+    {
+      "id": 51,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "The exact trigger for this one is still UNCONFIRMED as of 18 November 2026, so treat any step-by-step you read elsewhere with suspicion. All that is solid is the description itself: a cocktail with a view on Ocean Beach. The best lead is to find a bar with a seafront outlook along Ocean Beach and order a drink there, but nobody has verified the specific spot.",
+      "source": "Output Lag"
+    },
+    {
+      "id": 52,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "This trigger is UNCONFIRMED, so no verified location or vehicle has been pinned down yet. The wording does point clearly at one thing: driving a car out through the front window of a vehicle showroom rather than using the door. Beyond that, the honest answer is that the exact showroom and setup are still unknown.",
+      "source": "Output Lag"
+    },
+    {
+      "id": 53,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "The trigger for this trophy is UNCONFIRMED and the description gives very little away. It reads as a second attempt at something that failed the first time, but which activity or mission that refers to has not been established. Do not chase a specific method until the community pins one down.",
+      "source": "Output Lag"
+    },
+    {
+      "id": 54,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "Another UNCONFIRMED trophy — no reliable unlock method is documented yet. The name and description suggest something strange or unexplained in Leonida, but that is speculation and not a lead worth following. Wait for a verified report before spending time on it.",
+      "source": "Output Lag"
+    },
+    {
+      "id": 55,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "kind": "hidden",
+      "hidden": true,
+      "story": false,
+      "missable": false,
+      "guide": "The unlock is UNCONFIRMED, though the description points at a melee drive-by performed at the bowling alley. In practice that means pulling alongside a pedestrian and hitting them with a melee attack from a moving vehicle, with the bowling alley as the likely setting. Try it around Kingpin Bowling in Port Gellhorn, but treat the location as a best guess rather than fact.",
+      "source": "Output Lag"
+    }
+  ]
+}
